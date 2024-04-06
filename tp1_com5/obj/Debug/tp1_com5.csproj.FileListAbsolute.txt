@@ -1,0 +1,6 @@
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\obj\Debug\tp1_com5.csprojResolveAssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\bin\Debug\tp1_com5.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\bin\Debug\tp1_com5.exe
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\bin\Debug\tp1_com5.pdb
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\obj\Debug\tp1_com5.exe
+C:\Users\ferna\OneDrive\Escritorio\Fer\complejidad temporal\tp1_com5\tp1_com5\obj\Debug\tp1_com5.pdb
